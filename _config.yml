@@ -3,7 +3,6 @@ permalink:           /:title/
 
 # Setup
 title:               Основи веб програмування
-tagline:             Ми вивчемо HTML, CSS, JS, Git та інше
 url:                 https://osvita-code.github.io/web
 paginate:            1
 baseurl:             "https://osvita-code.github.io/web"
