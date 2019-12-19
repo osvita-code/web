@@ -42,6 +42,7 @@ categories: [html, css, layout, frameworks, normalize, Bootstrap]
 ### Практичне завдання
 
 * Створити веб-сайт візитівку з використанням будь-якого CSS фреймворку
+* [https://html5up.net/](https://html5up.net/){:target="_blank"}
 
 ### Домашнє завдання
 Переписати [http://osvita-code.github.io/](http://osvita-code.github.io/){:target="_blank"}    
